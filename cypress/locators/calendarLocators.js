@@ -1,0 +1,30 @@
+
+export const calendarLocators = {
+  // generic selectors for demo purposes
+  calendarCell: 'td',
+  dsoInput: 'input[type="number"]',
+  saveButton: 'button',
+  cancelButton: 'button',
+  nextMonthButton: 'button',
+  summaryPrice: '.summary',
+  errorToast: '.error',
+  propertySearch: 'input',
+  searchResult: 'li',
+  tooltipTrigger: '[title]',
+  tooltipContent: '.tooltip',
+  infoButton: 'button',
+  modal: '.modal',
+  calendarGrid: 'table',
+  viewToggleMonthly: 'button',
+  viewToggleWeekly: 'button',
+  startDate: 'input[type="date"]',
+  endDate: 'input[type="date"]',
+  applyFilter: 'button',
+  exportButton: 'button',
+  priceHistoryButton: 'button',
+  priceHistoryModal: '.modal',
+  historyList: 'ul',
+  bulkActionButton: 'button',
+  bulkActionModal: '.modal',
+  confirmBulk: 'button'
+}

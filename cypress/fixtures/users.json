@@ -1,0 +1,10 @@
+{
+  "validUser": {
+    "username": "qa.pricelabs@gmail.com",
+    "password": "qg33N$yxJP"
+  },
+  "invalidUser": {
+    "username": "bad@user.com",
+    "password": "wrongpass"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pricelabs_cypress_assignment",
+  "version": "1.0.0",
+  "description": "## Architecture Hybrid Framework using: - TDD (Mocha describe / context / it) - Data Driven (fixtures) - Page Object Model (pages + locators separation)",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "npm run cypress:run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.11.0",
+    "mochawesome": "^7.1.4"
+  }
+}

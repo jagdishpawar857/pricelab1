@@ -1,0 +1,12 @@
+{
+  "propertyName": "Test Property",
+  "singleDateDSO": 20,
+  "bulkStartDate": "2026-04-10",
+  "bulkEndDate": "2026-04-15",
+  "bulkDSO": 25,
+  "maxDSO": 100,
+  "minDSO": 0,
+  "invalidDSO": "abc",
+  "invalidLow": -5,
+  "invalidHigh": 150
+}
